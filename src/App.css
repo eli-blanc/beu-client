@@ -1,3 +1,5 @@
+@import '~antd/dist/reset.css';
+
 .App {
   text-align: center;
 }
@@ -24,14 +26,43 @@
   color: white;
 }
 
+.App-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.App-sorte {
+  width: 30px;
+}
+
+.App-jokers {
+  width: 40px;
+}
+
+.App-controls {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.App-joueur-name {  
+  margin-bottom: '0px';
 }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
