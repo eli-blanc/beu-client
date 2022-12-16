@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/beu-client/static/css/main.073c9b0a.css",
-    "main.js": "/beu-client/static/js/main.c74c21ef.js",
+    "main.css": "/beu-client/static/css/main.48f4dc99.css",
+    "main.js": "/beu-client/static/js/main.b6ae4355.js",
     "static/js/787.28cb0dcd.chunk.js": "/beu-client/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/beu-client/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/joker.png": "/beu-client/static/media/joker.1bae890e17af40a5529a.png",
+    "static/media/coeur.png": "/beu-client/static/media/coeur.59a967e2d634562f8e16.png",
+    "static/media/blanche.png": "/beu-client/static/media/blanche.f0fe20af464d3d72db71.png",
+    "static/media/carreau.png": "/beu-client/static/media/carreau.92ecf0ada12698ef588a.png",
+    "static/media/trefle.png": "/beu-client/static/media/trefle.ed074589ed2d6b4fa3fa.png",
+    "static/media/pique.png": "/beu-client/static/media/pique.61b1d9a571f5d6e4fb5f.png",
     "index.html": "/beu-client/index.html",
-    "main.073c9b0a.css.map": "/beu-client/static/css/main.073c9b0a.css.map",
-    "main.c74c21ef.js.map": "/beu-client/static/js/main.c74c21ef.js.map",
+    "main.48f4dc99.css.map": "/beu-client/static/css/main.48f4dc99.css.map",
+    "main.b6ae4355.js.map": "/beu-client/static/js/main.b6ae4355.js.map",
     "787.28cb0dcd.chunk.js.map": "/beu-client/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c74c21ef.js"
+    "static/css/main.48f4dc99.css",
+    "static/js/main.b6ae4355.js"
   ]
 }
