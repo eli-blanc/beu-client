@@ -3,7 +3,7 @@ import { Row, Col, message } from 'antd';
 import { CartesComponent } from './cartes-component';
 import { JoueurComponent } from './joueur-component';
 import { ActionType } from '../models/action';
-import { MainComponent } from './main-component';
+import { MainComponent } from './main-component';import "antd/dist/antd.min.css";
 
 export class TableComponent extends Component {
     constructor(props) {

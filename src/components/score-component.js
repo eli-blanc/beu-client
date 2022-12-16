@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import "antd/dist/antd.min.css";
 import { Table } from 'antd';
 
 export class ScoreComponent extends Component {

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import "antd/dist/antd.min.css";
 import { Form, InputNumber, Select, Radio } from 'antd';
 import { Sorte } from '../models/carte';
 import { Montant } from '../models/mise';

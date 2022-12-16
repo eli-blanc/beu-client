@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import "antd/dist/antd.min.css";
 import { Button, Form, Input, message } from 'antd';
 import bcrypt from 'bcryptjs';
 

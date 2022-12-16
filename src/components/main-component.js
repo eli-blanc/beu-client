@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import "antd/dist/antd.min.css";
 import { Row, Col } from 'antd';
 import { CarteComponent } from './carte-component';
 
