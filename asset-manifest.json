@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/beu-client/static/css/main.48f4dc99.css",
-    "main.js": "/beu-client/static/js/main.b6ae4355.js",
-    "static/js/787.28cb0dcd.chunk.js": "/beu-client/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/beu-client/static/js/main.8d2d5f0f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/beu-client/static/js/787.c4e7f8f9.chunk.js",
     "static/media/joker.png": "/beu-client/static/media/joker.1bae890e17af40a5529a.png",
     "static/media/coeur.png": "/beu-client/static/media/coeur.59a967e2d634562f8e16.png",
     "static/media/blanche.png": "/beu-client/static/media/blanche.f0fe20af464d3d72db71.png",
@@ -11,11 +11,11 @@
     "static/media/pique.png": "/beu-client/static/media/pique.61b1d9a571f5d6e4fb5f.png",
     "index.html": "/beu-client/index.html",
     "main.48f4dc99.css.map": "/beu-client/static/css/main.48f4dc99.css.map",
-    "main.b6ae4355.js.map": "/beu-client/static/js/main.b6ae4355.js.map",
-    "787.28cb0dcd.chunk.js.map": "/beu-client/static/js/787.28cb0dcd.chunk.js.map"
+    "main.8d2d5f0f.js.map": "/beu-client/static/js/main.8d2d5f0f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/beu-client/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f4dc99.css",
-    "static/js/main.b6ae4355.js"
+    "static/js/main.8d2d5f0f.js"
   ]
 }
