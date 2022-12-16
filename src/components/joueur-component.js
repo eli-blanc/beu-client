@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
-import { CartesComponent } from './cartes-component';
+
 import "antd/dist/antd.min.css";
+import { CartesComponent } from './cartes-component';
+
 export class JoueurComponent extends Component {
 
     onDiscarte(carte) {

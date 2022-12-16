@@ -1,7 +1,9 @@
 import React, { Component } from "react";
 import "./App.css";
+
 import { TableComponent } from "./components/table-component";
 import { Modal, Layout, Col, Row, Switch, Button } from "antd";
+import "antd/dist/antd.min.css";
 import { LoginComponent } from "./components/login-component";
 import { MiseComponent } from "./components/mise-component";
 import { Mise } from "./models/mise";

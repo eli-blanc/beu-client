@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
-import "antd/dist/antd.min.css";
+
 import { Card } from 'antd';
+
+import "antd/dist/antd.min.css";
 
 export class CarteComponent extends Component {
 
